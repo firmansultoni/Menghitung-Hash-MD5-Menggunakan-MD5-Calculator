@@ -11,12 +11,11 @@ cara menghitung hash MD5 dari file di komputer Windows Anda menggunakan alat MD5
 #### Tekan tombol Windows + I di keyboard Anda untuk membuka Settings.
 #### Masuk ke Pengaturan Fitur Windows:
 #### Di Settings, ketik "Windows Features" di bilah pencarian dan pilih Turn Windows features on or off.
+![image](https://github.com/user-attachments/assets/2a167654-7abb-4e7f-b925-5e424a7b628d)
 #### Aktifkan .NET Framework 3.5:
 #### Di jendela Windows Features, centang opsi .NET Framework 3.5 (includes .NET 2.0 and 3.0).
-
-Klik OK dan Windows akan mulai mengunduh dan menginstal komponen yang diperlukan. Anda memerlukan koneksi internet untuk menyelesaikan pengunduhan ini.
+![image](https://github.com/user-attachments/assets/6d21bc57-360e-4678-b528-b568f7c29f25)
+#### Klik OK dan Windows akan mulai mengunduh dan menginstal komponen yang diperlukan. Anda memerlukan koneksi internet untuk menyelesaikan pengunduhan ini.
 ![image](https://github.com/user-attachments/assets/fa694255-059d-4e8d-9e42-16ab1f0bc4e5)
-
-
 ![image](https://github.com/user-attachments/assets/c8db3100-59f7-4a67-ba0b-d19d56189f2f)
 
