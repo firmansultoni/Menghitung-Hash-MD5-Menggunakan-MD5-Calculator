@@ -29,6 +29,6 @@ cara menghitung hash MD5 dari file di komputer Windows Anda menggunakan alat MD5
 ### 4. Hitung Hash MD5
 #### Setelah memilih file, klik tombol Calculate untuk memulai proses perhitungan hash MD5.
 #### MD5 Calculator akan segera menghitung dan menampilkan hasilnya di bagian bawah antarmuka.
-![image](https://github.com/user-attachments/assets/ef15f6c3-f078-4290-a073-104d9a31b0ee)
+![image](https://github.com/user-attachments/assets/cd987ff0-af55-48a2-b1ce-12848a70894f)
 ### 5. Memverifikasi Integritas File
 #### Setelah hash MD5 dihitung, Anda dapat membandingkannya dengan hash yang diberikan oleh sumber asli (misalnya, situs yang mengunduh file tersebut). Jika hash MD5 cocok, ini berarti file tidak mengalami perubahan atau kerusakan selama transmisi atau penyimpanan.
