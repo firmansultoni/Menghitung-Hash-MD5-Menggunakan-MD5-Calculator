@@ -5,6 +5,7 @@ cara menghitung hash MD5 dari file di komputer Windows Anda menggunakan alat MD5
 #### Instal dengan mengikuti wizard instalasi di Windows Anda.
 ![image](https://github.com/user-attachments/assets/39504475-bd6c-4537-8b92-1234a84b1811)
 #### jika mengalami masalah seperti di bawah ini, langkah mengatasinya adalah dengan mengatur framworknya terleebih dahulu sesuai permintaan aplikasi yang akan di install 
+![image](https://github.com/user-attachments/assets/b8590814-e11f-4963-a539-1f40981810cb)
 #### Langkah-langkah Menginstal .NET Framework 3.5 di Windows 10/11
 #### Buka Pengaturan Windows:
 #### Tekan tombol Windows + I di keyboard Anda untuk membuka Settings.
